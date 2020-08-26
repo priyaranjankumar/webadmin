@@ -34,6 +34,6 @@ Installing Webmin
     https://192.168.43.1:10000
  
  6. You will receive a warning because the SSL will be invalid. 
-    It is safe to ignore this as we can’t receive a valid SSL certificate on an IP address.
+    It is safe to ignore this as we can’t receive a valid SSL certificate on an local IP address.
 
  7. the username will be pi and the password will be raspberry.
